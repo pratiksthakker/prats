@@ -14,7 +14,7 @@ public class MainDummyAll {
 		
 		
 		/*-----------------------------------*/
-		Employee emp1 = new Developer(4, "ABC", 100);
+		Employee emp1 = new Developer(4, "ABC", 100);  
 		emp1.printState();
 		Employee emp2 = new Employee(4, "Jill");
 		emp2.printState();
